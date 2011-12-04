@@ -7,6 +7,8 @@ gem 'rails', '3.0.5'
 
 gem 'mysql2'
 
+# mysql2-0.2.6-x86-mingw32
+
 # Use unicorn as the web server
 # gem 'unicorn'
 
